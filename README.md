@@ -1,2 +1,2 @@
 # Tech-Documentation
-Tech Documentation to Learn Javascript
+Tech Documentation to help Javascript students: https://luisacmn.github.io/Tech-Documentation/
