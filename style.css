@@ -1,0 +1,75 @@
+body{
+    font-family: 'Rubik', sans-serif;
+}
+
+
+
+/*NAVBAR*/
+.navbar-brand i{
+    color: #f7df1e;
+}
+
+
+/*SIDEBAR*/
+.nav-link{
+    color: rgb(90, 90, 90) ;
+    padding-left: 0; 
+}
+
+.nav-item{
+    color: rgb(90, 90, 90) ;
+}
+
+.nav-link:visited{
+    color: inherit;
+}
+
+.nav-link:hover{
+    background-color: rgb(233, 233, 233);
+    color: rgb(90, 90, 90) ;
+}
+
+#components-collapse{
+    padding-left: 20px;
+}
+
+.navlink-collapsed:hover{
+    cursor: pointer;
+    color: inherit;
+}
+
+.navlink-collapsed:visited{
+    color: inherit;  
+}
+
+.sidebar{
+    border-right: 1px solid green;
+}
+
+
+/*DOCUMENTATION*/
+.row{
+    margin-left:0;
+    margin-right: 0;
+    margin-top: 10px;
+}
+
+.documentation h1{
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+.documentation{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
+/*FOOTER*/
+
+footer p{
+    margin-bottom: 0;
+    margin-top: 10px;
+    font-size: .9em;
+}
